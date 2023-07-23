@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ravan Iskandarov</h1>
-<h3 align="center">A passionate backend developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF70A&width=435&lines=Hi%2C+I'm+Ravan+Iskandarov)](https://git.io/typing-svg)
+<h3 align="left">A passionate backend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY241ajMxOG16YXY0NHRyMzQ1d3Vrd3QzZzJqNWNnc2Y3dTFkejN5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
