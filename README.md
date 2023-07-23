@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-revan&" alt="i-revan" /></p>
 
-![snake gif](https://github.com/i-revan/i-revan/blob/output/github-contribution-grid-snake.gif)
+
