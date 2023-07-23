@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY241ajMxOG16YXY0NHRyMzQ1d3Vrd3QzZzJqNWNnc2Y3dTFkejN5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-revan&label=Profile%20views&color=0e75b6&style=flat" alt="i-revan" /> </p>
-- 🔭 I’m currently studying Data Science and Artificial Intelligence at UFAZ
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
