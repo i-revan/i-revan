@@ -52,7 +52,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-revan&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="i-revan" /></p>
 
----
-![snake gif](https://github.com/i-revan/i-revan/blob/output/github-contribution-grid-snake.svg)
----
+
 
